@@ -1,0 +1,8 @@
+node_modules
+FaceRecongntion/Faces/
+FaceRecongntion/training data/
+FaceRecongntion/Rec.py
+FaceRecongntion/Rec2.py
+FaceRecongntion/FaceRecongntion.py
+FaceRecongntion/objectRec.py
+#ignored files

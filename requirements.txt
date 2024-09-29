@@ -1,0 +1,3 @@
+tensorflow==2.9.0      # Or the TensorFlow version you're using
+opencv-python==4.5.5.64
+Pillow==9.0.0          # For image manipulation with Tkinter
